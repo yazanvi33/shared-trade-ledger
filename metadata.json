@@ -1,0 +1,6 @@
+{
+  "name": "Shared Trade Ledger",
+  "description": "A web application to track trades, deposits, withdrawals, and calculate shared financial accounting for a trading account.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

@@ -1,0 +1,24 @@
+{
+  "short_name": "Ledger",
+  "name": "Shared Trade Ledger",
+  "description": "A web application to track trades, deposits, withdrawals, and calculate shared financial accounting for a trading account.",
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#1f2937",
+  "scope": "/"
+}
